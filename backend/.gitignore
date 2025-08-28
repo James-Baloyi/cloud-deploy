@@ -1,0 +1,16 @@
+/.vs/*
+**/*.suo
+**/*.user
+**/*.bak
+**/*.orig
+**/UpgradeLog.htm
+**/bin/*
+**/obj/*
+**/App_Data/Logs/*
+**/ElmahLogs/*
+Logs
+/src/sheshpr.pr3766.Web.Host/web.config
+/src/sheshpr.pr3766.Web.Host/sheshpr.pr3766.Web.Core.xml
+/sh.exe.stackdump
+
+
